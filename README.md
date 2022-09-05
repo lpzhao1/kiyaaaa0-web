@@ -22,7 +22,7 @@
 
 ## Version 3
 
-运用责任链模式，可集成Filter；
+运用责任链模式，可集成中间件；
 
 handler based on Map改用线程安全的sync.Map；
 
